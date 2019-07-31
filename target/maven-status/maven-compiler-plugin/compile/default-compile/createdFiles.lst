@@ -1,0 +1,9 @@
+com/ninja/student/model/Student.class
+com/ninja/student/resource/ApiResponse.class
+com/ninja/student/configuration/StudentConfiguration.class
+com/ninja/student/transformer/StudentDTO.class
+com/ninja/student/resource/StudentResource.class
+com/ninja/student/configuration/StudentApplication$1.class
+com/ninja/student/dao/StudentDao.class
+com/ninja/student/service/StudentService.class
+com/ninja/student/configuration/StudentApplication.class

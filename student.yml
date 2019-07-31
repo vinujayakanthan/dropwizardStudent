@@ -1,0 +1,10 @@
+server:
+  applicationConnectors:
+    - type: http
+      port: 8080
+
+database:
+  driverClass: com.mysql.jdbc.Driver
+  user: vinu
+  password: password
+  url: jdbc:mysql://localhost:3308/student
